@@ -1,2 +1,3 @@
-# wage-calc
+wage-calc
+
 Calculates wage
