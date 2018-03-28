@@ -1,0 +1,8 @@
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\VypocetMzdy.exe.config
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\VypocetMzdy.exe
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\VypocetMzdy.pdb
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\VypocetMzdy.Properties.Resources.resources
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\VypocetMzdy.exe
+D:\C#\Vypocet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\VypocetMzdy.pdb
